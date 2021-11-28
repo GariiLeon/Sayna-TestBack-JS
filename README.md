@@ -246,4 +246,4 @@ The fields are optional
 
 ## Stay in touch
 
-- Author - [Garina Léon](garina.leon@gmail.com)
+- Author - [Garina Léon](https://www.linkedin.com/in/garina-léon-a48a9113a)
