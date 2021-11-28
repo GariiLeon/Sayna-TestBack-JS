@@ -1,10 +1,10 @@
 <p align="center">
-  HOST : <a href="" target="blank"></a>
+  HOST : <a href="https://sayna-user-test-api.herokuapp.com/" target="blank">https://sayna-user-test-api.herokuapp.com/</a>
 </p>
 
 ## Description
 
-This is a simple API allowing consumers to register users, manipulate users data with authentication method
+This is a simple API allowing consumers to register users, manipulate users data with authentication method using NestJs
 
 ## Installation
 
