@@ -38,7 +38,7 @@ Take a look at possible error responses
         }
     ```
 
-### List All Employees [GET] [/]
+### Entry point [GET] [/]
 
 + Response 200 (application/json)
 
