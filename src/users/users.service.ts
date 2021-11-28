@@ -1,10 +1,9 @@
 import { Inject, Injectable } from '@nestjs/common';
-import { Model, ObjectId } from 'mongoose';
-import { USERS_MODEL_PROVIDER } from 'src/config/constants';
+import { Model } from 'mongoose';
+import { USERS_MODEL_PROVIDER } from '../config/constants';
 import { CreateUserDto, UpdateUserDto } from './dtos/users.dto';
 import { UsersInterface } from './interfaces/users.interface';
 import * as bcrypt from 'bcrypt';
-import { SingleUserInterface } from './interfaces/user.single.return.interface';
 import { UsersReturnInterface } from './interfaces/users.return.interface';
 
 @Injectable()

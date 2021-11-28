@@ -1,8 +1,6 @@
 import { Inject, Injectable } from '@nestjs/common';
-import { JwtService } from '@nestjs/jwt';
 import { Model } from 'mongoose';
-import { jwtConstants } from 'src/config/config.env';
-import { REFRESH_TOKEN_MODEL_PROVIDER } from 'src/config/constants';
+import { REFRESH_TOKEN_MODEL_PROVIDER } from '../config/constants';
 import { TokensInterface } from './interfaces/token.interface';
 
 @Injectable()
